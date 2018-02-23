@@ -1,0 +1,3 @@
+{:deps {product-fetcher {:local/root "/Users/sean/work/repos/product-fetcher"}
+        org.clojure/tools.cli {:mvn/version "0.3.5"}}}
+
